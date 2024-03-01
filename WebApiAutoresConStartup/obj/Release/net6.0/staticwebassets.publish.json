@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "r0BtSydyNue01SLfyB/sbVagJlNSch+ejvVEJGSJLq8=",
+  "Source": "WebApiAutoresConStartup",
+  "BasePath": "_content/WebApiAutoresConStartup",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAutoresConStartup\\wwwroot",
+      "Source": "WebApiAutoresConStartup",
+      "ContentRoot": "C:\\Users\\junio\\source\\repos\\WebApiAutoresConStartup\\WebApiAutoresConStartup\\wwwroot\\",
+      "BasePath": "_content/WebApiAutoresConStartup",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\junio\\source\\repos\\WebApiAutoresConStartup\\WebApiAutoresConStartup\\wwwroot\\Archivo 1.txt",
+      "SourceId": "WebApiAutoresConStartup",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junio\\source\\repos\\WebApiAutoresConStartup\\WebApiAutoresConStartup\\wwwroot\\",
+      "BasePath": "_content/WebApiAutoresConStartup",
+      "RelativePath": "Archivo 1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo 1.txt"
+    }
+  ]
+}

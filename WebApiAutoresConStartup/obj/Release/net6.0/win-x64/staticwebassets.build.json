@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/G4XUEhE7FlNauZ2LtsojYVTavv/yneMEg1Xbjdk8EY=",
+  "Source": "WebApiAutoresConStartup",
+  "BasePath": "_content/WebApiAutoresConStartup",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAutoresConStartup\\wwwroot",
+      "Source": "WebApiAutoresConStartup",
+      "ContentRoot": "C:\\Users\\junio\\source\\repos\\WebApiAutoresConStartup\\WebApiAutoresConStartup\\wwwroot\\",
+      "BasePath": "_content/WebApiAutoresConStartup",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
